@@ -1,0 +1,1 @@
+emails = ["jalvaradocarpio6314@aceroschools.org", "watermantothecore2@gmail.com", "watermantothecore1@gmail.com, pumpkinspicelily@gmail.com"]
